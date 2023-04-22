@@ -1,7 +1,8 @@
 # Speech-recognition-and-TTS-program
 
 # This program is designed to allow users to interact with a computer through speech recognition and text-to-speech technology. 
-<br>The program listens for user input and processes it using two functions: "zeus()" and "chatgpt()". 
+<br>The program listens for user input and processes it using two functions: "zeus()" and "chatgpt()".
+<br>
 The "zeus()" function is called when the user says "help", and it provides access to various APIs, such as Wikipedia, Google, and YouTube, 
 allowing users to search for information or perform tasks like playing music or checking the time. 
 <br>
